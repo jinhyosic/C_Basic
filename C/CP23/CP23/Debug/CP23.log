@@ -1,0 +1,13 @@
+﻿  CP23_2.cpp
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(3,6): error C2182: 'recA': 'void' 형식을 잘못 사용했습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(3,11): error C2065: 'Rect': 선언되지 않은 식별자입니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(3,16): error C2146: 구문 오류: ')'이(가) 'X' 식별자 앞에 없습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(3,19): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(3,19): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(9,6): error C2182: 'fourpoint': 'void' 형식을 잘못 사용했습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(9,16): error C2065: 'Rect': 선언되지 않은 식별자입니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(9,21): error C2146: 구문 오류: ')'이(가) 'X' 식별자 앞에 없습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(9,24): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(9,24): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(35,2): error C2064: 항은 1개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Users\진효식\Desktop\C_Basic\C\CP23\CP23\CP23_2.cpp(37,2): error C2064: 항은 1개의 인수를 받아들이는 함수로 계산되지 않습니다.
